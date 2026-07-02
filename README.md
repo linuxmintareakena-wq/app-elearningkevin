@@ -74,4 +74,6 @@ Proyek ini dibuat untuk kebutuhan internal IT&DPK. Hak cipta dilindungi.
 
 ---
 
+[Klik di sini untuk buka aplikasi](https://ikenalearning.infinityfreeapp.com/)
+
 *Dibuat dengan semangat untuk pendidikan yang lebih baik.*
