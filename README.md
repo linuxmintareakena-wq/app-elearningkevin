@@ -28,11 +28,6 @@ Sistem E-Learning modern yang dirancang untuk mempermudah manajemen materi pembe
 ├── .htaccess        # Konfigurasi keamanan server
 └── README.md        # Dokumentasi aplikasi
 
-Tentu, ini adalah draf `README.md` yang minimalis, bersih, dan profesional yang sangat cocok untuk repositori GitHub aplikasi **E-Learning IT&DPK**.
-
----
-
-```markdown
 # 📚 E-Learning IT&DPK
 
 Sistem E-Learning modern yang dirancang untuk mempermudah manajemen materi pembelajaran dan tugas siswa. Dibangun dengan fokus pada efisiensi, keamanan, dan pengalaman pengguna yang responsif.
@@ -80,23 +75,3 @@ Proyek ini dibuat untuk kebutuhan internal IT&DPK. Hak cipta dilindungi.
 ---
 
 *Dibuat dengan semangat untuk pendidikan yang lebih baik.*
-
-```
-
----
-
-### Tips agar README Anda terlihat lebih profesional di GitHub:
-
-1.  **Tambahkan Gambar (Screenshot):** Jangan ragu untuk menambahkan screenshot dashboard atau halaman materi. Caranya, masukkan file gambar ke repositori Anda (misal dalam folder `/assets/images/`), lalu tambahkan baris berikut di README:
-    `![Dashboard](assets/images/dashboard.png)`
-2.  **Badges:** Anda bisa menambahkan *badge* sederhana untuk mempercantik (opsional), contoh:
-    `![PHP Version](https://img.shields.io/badge/PHP-8.x-blue)`
-    `![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple)`
-3.  **Cara Pasang:**
-    * Buat file baru di repositori GitHub Anda bernama `README.md`.
-    * *Paste* kode di atas.
-    * Commit dan *push* perubahan tersebut.
-
-Apakah Anda ingin saya buatkan juga file `LICENSE` atau `CONTRIBUTING.md` untuk melengkapi repositori GitHub Anda?
-
-```
